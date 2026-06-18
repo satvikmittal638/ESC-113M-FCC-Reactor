@@ -11,16 +11,16 @@ This repository contains the course project for **ESC-113M (Term Project, 2025 E
 The project focuses on the **numerical analysis and simulation of a simplified Fluid Catalytic Cracking (FCC) Reactor**. The simulation solves a system of autonomous Ordinary Differential Equations (ODEs) that represent the dynamics of the reactor along its length, including the conversion of the reactant, temperature variation, and catalyst deactivation.
 
 ### Authors
-*   **Shlok Sharma** (240988)
-*   **Siddhant Tomer** (241012)
-*   **Shivansh Pandey** (240982)
-*   **Satvik Mittal** (240943)
-*   **Saloni Kumari** (240915)
-*   **Pallav Pratibh** (240723)
-*   **Swastik Bhardwaj** (241075)
-*   **Arman Singh** (240183)
-*   **Nishant Sharma** (240707)
-*   **Akash Lodhi** (240079)
+*   **Satvik Mittal (240943) - Project Lead**
+*   Shlok Sharma (240988)
+*   Siddhant Tomer (241012)
+*   Shivansh Pandey (240982)
+*   Saloni Kumari (240915)
+*   Pallav Pratibh (240723)
+*   Swastik Bhardwaj (241075)
+*   Arman Singh (240183)
+*   Nishant Sharma (240707)
+*   Akash Lodhi (240079)
 
 ---
 
