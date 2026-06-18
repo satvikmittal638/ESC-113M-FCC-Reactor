@@ -13,7 +13,14 @@ The project focuses on the **numerical analysis and simulation of a simplified F
 ### Authors
 *   **Shlok Sharma** (240988)
 *   **Siddhant Tomer** (241012)
-*   **Shivansh Pandey**
+*   **Shivansh Pandey** (240982)
+*   **Satvik Mittal** (240943)
+*   **Saloni Kumari** (240915)
+*   **Pallav Pratibh** (240723)
+*   **Swastik Bhardwaj** (241075)
+*   **Arman Singh** (240183)
+*   **Nishant Sharma** (240707)
+*   **Akash Lodhi** (240079)
 
 ---
 
