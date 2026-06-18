@@ -60,11 +60,7 @@ These methods are used to discretize the reactor length by defined step sizes an
 
 To provide an intuitive and interactive way to visualize the reactor's behavior, a custom MATLAB App Designer GUI (`FCC_APP.mlapp`) was developed. 
 
-*(Replace the placeholder below with a screenshot of your app running)*
-
-> **[🖼️ Add Screenshot Here: `app_screenshot.png`]**
-> 
-> *Screenshot of the FCC Reactor Simulation App showing the parameter inputs and resulting dynamic plots.*
+![Screenshot of the FCC Reactor Simulation App showing the parameter inputs and resulting dynamic plots.](app_screenshot.png)
 
 ---
 
